@@ -1,7 +1,7 @@
 /* See LICENSE file for copyright and license details. */
 #include "util.h"
 
-#define FILE_SENTENCE "data/SentenceBreakProperty.txt"
+#define FILE_SENTENCE "data/auxiliary/SentenceBreakProperty.txt"
 
 static const struct property_spec sentence_break_property[] = {
 	{

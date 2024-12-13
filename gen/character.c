@@ -3,8 +3,8 @@
 
 #include "util.h"
 
-#define FILE_EMOJI    "data/emoji-data.txt"
-#define FILE_GRAPHEME "data/GraphemeBreakProperty.txt"
+#define FILE_EMOJI    "data/emoji/emoji-data.txt"
+#define FILE_GRAPHEME "data/auxiliary/GraphemeBreakProperty.txt"
 
 static const struct property_spec char_break_property[] = {
 	{

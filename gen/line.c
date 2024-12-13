@@ -6,7 +6,7 @@
 #include "util.h"
 
 #define FILE_EAW   "data/EastAsianWidth.txt"
-#define FILE_EMOJI "data/emoji-data.txt"
+#define FILE_EMOJI "data/emoji/emoji-data.txt"
 #define FILE_LINE  "data/LineBreak.txt"
 
 static const struct property_spec line_break_property[] = {

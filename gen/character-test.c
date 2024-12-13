@@ -11,7 +11,7 @@ main(int argc, char *argv[])
 
 	(void)argc;
 
-	break_test_list_parse("data/GraphemeBreakTest.txt", &test, &testlen);
+	break_test_list_parse("data/auxiliary/GraphemeBreakTest.txt", &test, &testlen);
 	break_test_list_print(test, testlen, "character_break_test", argv[0]);
 	break_test_list_free(test, testlen);
 

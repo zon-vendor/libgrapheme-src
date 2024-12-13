@@ -5,8 +5,8 @@
 
 #include "util.h"
 
-#define FILE_EMOJI "data/emoji-data.txt"
-#define FILE_WORD  "data/WordBreakProperty.txt"
+#define FILE_EMOJI "data/emoji/emoji-data.txt"
+#define FILE_WORD  "data/auxiliary/WordBreakProperty.txt"
 
 static const struct property_spec word_break_property[] = {
 	{

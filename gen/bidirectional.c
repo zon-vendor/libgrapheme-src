@@ -9,7 +9,7 @@
 #include "util.h"
 
 #define FILE_BIDI_BRACKETS  "data/BidiBrackets.txt"
-#define FILE_BIDI_CLASS     "data/DerivedBidiClass.txt"
+#define FILE_BIDI_CLASS     "data/extracted/DerivedBidiClass.txt"
 #define FILE_BIDI_MIRRORING "data/BidiMirroring.txt"
 #define FILE_UNICODE_DATA   "data/UnicodeData.txt"
 
